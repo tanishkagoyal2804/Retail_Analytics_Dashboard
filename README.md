@@ -100,6 +100,8 @@ Retail_Analytics_Dashboard/
 
    http://localhost:8501
 
+   ![screenshot](https://github.com/tanishkagoyal2804/Retail_Analytics_Dashboard/blob/master/Screenshot%202026-02-26%20162320.png)
+
    
 ## 👩‍💻 Author
 
